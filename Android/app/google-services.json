@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307939636760",
+    "firebase_url": "https://proyecto-grado-usta2019.firebaseio.com",
+    "project_id": "proyecto-grado-usta2019",
+    "storage_bucket": "proyecto-grado-usta2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307939636760:android:83949068253d7158",
+        "android_client_info": {
+          "package_name": "com.example.joyce_mc.proyectogrado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307939636760-48gv4uhgakq4ujrh1jffq3l99r5ebcic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPrGAIgKydjrlvwOlaluLuxmXY1M59ZaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
