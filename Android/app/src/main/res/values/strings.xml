@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoGrado</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_alarm">Alarm</string>
+</resources>
